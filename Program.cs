@@ -17,8 +17,6 @@ EvenNumbers(5);
 EvenNumbers(8);
 
 
-
-
 int Max2(int a, int b)
 {
     if (a > b)
